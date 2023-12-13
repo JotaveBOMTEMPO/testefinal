@@ -1,17 +1,17 @@
 {
-  "name": "trabalhofinal",
+  "name": "final",
   "version": "1.0.0",
   "description": "Trabalho Final de PPI - João Victor Bomtempo",
   "main": "index.js",
   "scripts": {
-    "test": "index"
+    "start": "node seu_arquivo_de_inicio.js"
   },
   "repository": {
     "type": "git",
     "url": "testefinal"
   },
   "keywords": [
-    "PPI"
+    "final"
   ],
   "author": "João Victor Bomtempo",
   "license": "ISC",
